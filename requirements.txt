@@ -1,0 +1,9 @@
+#packages
+
+numpy
+qutip
+matplotlib
+pandas
+ipywidgets
+voila
+jupyterlab
